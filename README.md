@@ -2,6 +2,8 @@
 
 React Product Catalog is a modern e-commerce platform for showcasing products like phones, tablets, and accessories. It features a catalog, shopping cart, and favorites page with an engaging user interface. Users can browse products, add them to their cart, and save them to favorites for future purchases.
 
+[**Demo Link**](https://ellworts.github.io/react_phone-catalog/)
+
 ## 🌍 About the Website
 
 - 🛒 **Product Catalog**: Browse phones, tablets, and accessories with detailed product descriptions, images, and pricing.
